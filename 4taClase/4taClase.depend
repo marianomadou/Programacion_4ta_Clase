@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522784748 source:c:\test\mmadou\4taclase\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1522784700 source:c:\test\mmadou\4taclase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522784442 c:\test\mmadou\4taclase\funciones.h
+

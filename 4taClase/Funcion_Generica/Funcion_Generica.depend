@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522256255 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\funcion_generica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522783543 source:c:\test\mmadou\4taclase\funcion_generica\main.c
+	<stdio.h>
+	<stdlib.h>
+
