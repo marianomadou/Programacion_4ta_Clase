@@ -34,3 +34,13 @@ int validarEntero(int dato, int min, int max)
     return dato;
 }
 
+long factorial(int n)
+{
+  int contador;
+  long resultado = 1;
+
+  for (contador = 1; contador <= n; contador++)
+    resultado = resultado * contador;
+
+  return resultado;
+}
