@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521571258 source:c:\users\administrador\downloads\apuntes tecnicatura\clase_07\ejercicio\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1521571258 c:\users\administrador\downloads\apuntes tecnicatura\clase_07\ejercicio\utn.h
+
+1521571258 source:c:\users\administrador\downloads\apuntes tecnicatura\clase_07\ejercicio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
